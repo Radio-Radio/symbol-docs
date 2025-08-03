@@ -4,7 +4,7 @@ Babel==2.17.0
 imagesize==1.4.1
 Jinja2==3.1.6
 MarkupSafe==3.0.2
-PyGithub==2.6.1
+PyGithub==2.7.0
 Pygments==2.19.2
 pytz==2025.2
 six==1.17.0
