@@ -10,7 +10,7 @@
     "rxjs": "^7.8.2",
     "rxjs-compat": "^6.6.7",
     "symbol-sdk": "3.2.3",
-    "typescript": "^5.8.3",
+    "typescript": "^5.9.2",
     "utf8": "^3.0.0"
   },
   "devDependencies": {
