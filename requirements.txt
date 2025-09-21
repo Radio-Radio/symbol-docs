@@ -9,7 +9,7 @@ Pygments==2.19.2
 pytz==2025.2
 six==1.17.0
 snowballstemmer==3.0.1
-docutils==0.22
+docutils==0.22.2
 Sphinx==8.2.3
 sphinx-autobuild==2024.10.3
 sphinx_bootstrap_theme==0.8.1
