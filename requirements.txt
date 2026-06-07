@@ -8,7 +8,7 @@ PyGithub==2.9.1
 Pygments==2.20.0
 pytz==2026.2
 six==1.17.0
-snowballstemmer==3.0.1
+snowballstemmer==3.1.1
 docutils==0.22.4
 Sphinx==9.1.0
 sphinx-autobuild==2025.8.25
