@@ -5,7 +5,7 @@ imagesize==2.0.0
 Jinja2==3.1.6
 MarkupSafe==3.0.3
 PyGithub==2.10.0
-Pygments==2.20.0
+Pygments==2.21.0
 pytz==2026.3.post1
 six==1.17.0
 snowballstemmer==3.1.1
